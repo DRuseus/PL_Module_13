@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Выполнено задание по теме &quot;Хендлеры обработки сообщений&quot;.">
-      <change afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_3.py" afterDir="false" />
+    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Выполнено задание по теме &quot;Методы отправки сообщений&quot;.">
+      <change afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,14 +50,50 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.123.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module_13_1.executor": "Run",
     "Python.module_13_2.executor": "Run",
+    "Python.module_13_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/PyProjects/PL_Module_13/telegramBot_13_2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyProjects\PL_Module_13\telegramBot_13_2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="module_13_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PL_Module_13" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/telegramBot_13_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/telegramBot_13_2/module_13_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.module_13_2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,12 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729623995115</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Выполнено задание по теме &quot;Методы отправки сообщений&quot;.">
+      <option name="closed" value="true" />
+      <created>1729625329301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729625329301</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнено задание по теме &quot;Асинхронность на практике&quot;" />
     <MESSAGE value="Выполнено задание по теме &quot;Хендлеры обработки сообщений&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание по теме &quot;Хендлеры обработки сообщений&quot;." />
+    <MESSAGE value="Выполнено задание по теме &quot;Методы отправки сообщений&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание по теме &quot;Методы отправки сообщений&quot;." />
   </component>
 </project>
