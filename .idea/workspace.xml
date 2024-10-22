@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Выполнено задание по теме &quot;Асинхронность на практике&quot;">
-      <change afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_2.py" afterDir="false" />
+    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Выполнено задание по теме &quot;Хендлеры обработки сообщений&quot;.">
+      <change afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,8 @@
     "Python.module_13_1.executor": "Run",
     "Python.module_13_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PyProjects/PL_Module_13/telegramBot_13_2"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -79,11 +80,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729601624039</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Выполнено задание по теме &quot;Хендлеры обработки сообщений&quot;.">
+      <option name="closed" value="true" />
+      <created>1729623995115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729623995115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнено задание по теме &quot;Асинхронность на практике&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание по теме &quot;Асинхронность на практике&quot;" />
+    <MESSAGE value="Выполнено задание по теме &quot;Хендлеры обработки сообщений&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание по теме &quot;Хендлеры обработки сообщений&quot;." />
   </component>
 </project>
