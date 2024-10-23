@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Добавлено логгирование" />
+    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Добавлено логгирование">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,21 +50,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.123.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_13_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_13_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_13_4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PyProjects/PL_Module_13/telegramBot_13_2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.123.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.module_13_1.executor": "Run",
+    "Python.module_13_2.executor": "Run",
+    "Python.module_13_4.executor": "Run",
+    "Python.module_13_5.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PyProjects/PL_Module_13/telegramBot_13_2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PyProjects\PL_Module_13\telegramBot_13_2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyProjects\PL_Module_13\telegramBot_13_2" />
+      <recent name="D:\PyProjects\PL_Module_13" />
     </key>
   </component>
   <component name="RunManager">
@@ -145,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729668108048</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавлено логгирование">
+      <option name="closed" value="true" />
+      <created>1729671822537</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729671822537</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
