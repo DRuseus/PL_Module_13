@@ -1,5 +1,6 @@
 import asyncio
 import logging
+
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters.command import CommandStart
 from aiogram.filters.state import State, StatesGroup
@@ -109,6 +110,15 @@ async def send_calories(message, state: FSMContext):
                          f'А если в женщина, то ваша дневная норма калорий:\n'
                          f'{10 * weight + 6.25 * growth + 5 * age - 161}')
     await state.clear()
+
+
+@dp.message(F.text.lower().in_({'спасибо', 'благодар', 'спс','спасибо большое','большое спасибо','благодарочка',
+                                'сяб','от души','круто','нифига себе',"класс","классно","неплохо",
+                                "премного благодарю","спасибочки","спасибо вам",
+                                }))
+async def all_messages(message):
+    logging.info(f'Пользователь {message.from_user.full_name} ввёл {message.text}')
+    await message.answer('Всегда пожалуйста!')
 
 
 @dp.message()
