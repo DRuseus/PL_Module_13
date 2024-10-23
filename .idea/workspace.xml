@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Выполнено задание по теме &quot;Методы отправки сообщений&quot;.">
-      <change afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_4.py" afterDir="false" />
+    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Выполнено задание по теме &quot;Машина состояний&quot;.&#10;Плюс правки по предыдущим двум заданиям">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DRuseus"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DRuseus&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DRuseus/PL_Module_13.git",
-    "accountId": "61f6ea7f-e0ac-4c72-91de-b0a6a5d098d1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DRuseus/PL_Module_13.git&quot;,
+    &quot;accountId&quot;: &quot;61f6ea7f-e0ac-4c72-91de-b0a6a5d098d1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2nnCjWtbf4jTzm1ZnhyPEged8wB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,18 +46,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.123.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.module_13_1.executor": "Run",
-    "Python.module_13_2.executor": "Run",
-    "Python.module_13_4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PyProjects/PL_Module_13/telegramBot_13_2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_13_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_13_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_13_4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PyProjects/PL_Module_13/telegramBot_13_2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PyProjects\PL_Module_13\telegramBot_13_2" />
@@ -134,13 +132,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729625329301</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Выполнено задание по теме &quot;Машина состояний&quot;.&#10;Плюс правки по предыдущим двум заданиям">
+      <option name="closed" value="true" />
+      <created>1729640753518</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729640753518</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнено задание по теме &quot;Асинхронность на практике&quot;" />
     <MESSAGE value="Выполнено задание по теме &quot;Хендлеры обработки сообщений&quot;." />
     <MESSAGE value="Выполнено задание по теме &quot;Методы отправки сообщений&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание по теме &quot;Методы отправки сообщений&quot;." />
+    <MESSAGE value="Выполнено задание по теме &quot;Машина состояний&quot;.&#10;Плюс правки по предыдущим двум заданиям" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание по теме &quot;Машина состояний&quot;.&#10;Плюс правки по предыдущим двум заданиям" />
   </component>
 </project>
