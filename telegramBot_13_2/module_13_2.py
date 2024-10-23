@@ -2,8 +2,9 @@ from aiogram import Bot, Dispatcher
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.filters.command import CommandStart
 import asyncio
+from API_K import API
 
-API = 'None'
+# API = 'None'
 bot = Bot(token=API)
 dp = Dispatcher(storage=MemoryStorage())
 

@@ -4,8 +4,9 @@ from aiogram.fsm.context import FSMContext
 from aiogram.filters.state import State, StatesGroup
 from aiogram.filters.command import Command, CommandStart
 import asyncio, logging
+from API_K import API
 
-API = 'None'
+# API = 'None'
 bot = Bot(token=API)
 dp = Dispatcher(storage=MemoryStorage())
 
