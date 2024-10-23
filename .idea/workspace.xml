@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Выполнено задание по теме &quot;Машина состояний&quot;.&#10;Плюс правки по предыдущим двум заданиям">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_4.py" afterDir="false" />
-    </list>
+    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Добавлено логгирование" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729640753518</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Добавлено логгирование">
+      <option name="closed" value="true" />
+      <created>1729668108048</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729668108048</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +153,7 @@
     <MESSAGE value="Выполнено задание по теме &quot;Хендлеры обработки сообщений&quot;." />
     <MESSAGE value="Выполнено задание по теме &quot;Методы отправки сообщений&quot;." />
     <MESSAGE value="Выполнено задание по теме &quot;Машина состояний&quot;.&#10;Плюс правки по предыдущим двум заданиям" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание по теме &quot;Машина состояний&quot;.&#10;Плюс правки по предыдущим двум заданиям" />
+    <MESSAGE value="Добавлено логгирование" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлено логгирование" />
   </component>
 </project>

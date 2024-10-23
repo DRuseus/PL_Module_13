@@ -5,7 +5,7 @@ from aiogram.filters.state import State, StatesGroup
 from aiogram.filters.command import Command, CommandStart
 import asyncio, logging
 
-API = '7616865449:AAEqDgfsIBoCUC44bW0yOW4DrXlIybORiac'
+API = 'None'
 bot = Bot(token=API)
 dp = Dispatcher(storage=MemoryStorage())
 
