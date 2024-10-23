@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Вынес API ключ в отдельный файл с внесением в .gitignore">
-      <change afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5f30af57-977b-4470-91b3-b5281ce929f2" name="Changes" comment="Выполнено задание по теме &quot;Инлайн клавиатуры&quot;.">
+      <change beforePath="$PROJECT_DIR$/telegramBot_13_2/module_13_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/telegramBot_13_2/module_13_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729680172092</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Выполнено задание по теме &quot;Инлайн клавиатуры&quot;.">
+      <option name="closed" value="true" />
+      <created>1729697487661</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729697487661</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +197,7 @@
     <MESSAGE value="Добавлено логгирование" />
     <MESSAGE value="Выполнено задание по теме &quot;Клавиатура кнопок&quot;." />
     <MESSAGE value="Вынес API ключ в отдельный файл с внесением в .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вынес API ключ в отдельный файл с внесением в .gitignore" />
+    <MESSAGE value="Выполнено задание по теме &quot;Инлайн клавиатуры&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнено задание по теме &quot;Инлайн клавиатуры&quot;." />
   </component>
 </project>

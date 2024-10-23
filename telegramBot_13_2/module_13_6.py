@@ -1,7 +1,5 @@
-from aiogram import Bot, Dispatcher, F
 import asyncio
 import logging
-
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters.command import CommandStart
 from aiogram.filters.state import State, StatesGroup
@@ -41,17 +39,9 @@ il_markup_2 = InlineKeyboardMarkup(inline_keyboard=[[il_button_calc]])
 markup_1 = ReplyKeyboardMarkup(keyboard=[[start_button_1, info_button]], resize_keyboard=True, one_time_keyboard=True)
 
 
-# У объекта класса ReplyKeyboardMarkup больше нет метода .add(), теперь надо указывать кнопки при определении клавиатуры
-
-
-# Опять же докуметация навела меня на билдер, который собирает сетки из кнопок
-
-# builder = ReplyKeyboardBuilder()
-# builder.add(start_button, info_button)
-
-
 @dp.callback_query(MyFilter.filter(F.action == 'formula'))
 async def formula(call):
+    logging.info(f'Пользователь {call.message.from_user.full_name} ввёл {call.message.text}')
     await call.message.answer('Формула Миффлина-Сан Жеора\n'
                               'Для мужчин: 10 х вес (кг) + 6,25 x рост (см) – 5 х возраст (г) + 5\n'
                               'Для женщин: 10 x вес (кг) + 6,25 x рост (см) – 5 x возраст (г) – 161',
@@ -61,6 +51,7 @@ async def formula(call):
 
 @dp.callback_query(MyFilter.filter(F.action == 'start'))
 async def formula(call, state: FSMContext):
+    logging.info(f'Пользователь {call.message.from_user.full_name} ввёл {call.message.text}')
     await state.set_state(UserState.age)
     await call.message.answer('Введите свой возраст в полных годах:')
     await call.answer()
@@ -82,7 +73,7 @@ async def start(message):
                          reply_markup=markup_1)
 
 
-@dp.message(F.text.contains('норму калорий'))
+@dp.message(F.text.contains('нормы калорий'))
 async def set_age(message, state: FSMContext):
     logging.info(f'Пользователь {message.from_user.full_name} ввёл {message.text}')
     await state.set_state(UserState.age)
